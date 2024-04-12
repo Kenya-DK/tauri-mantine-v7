@@ -1,0 +1,1 @@
+# tauri-mantine-v7
